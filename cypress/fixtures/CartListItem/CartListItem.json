@@ -1,0 +1,13 @@
+{
+    "Locators" : 
+    {
+        "Assert_Cart_Loc" : ".subheader",
+        "Prod3_Remove_Loc" : ":nth-child(5) > .cart_item_label > .item_pricebar > .btn_secondary",
+        "CheckOutBtn" : ".btn_action"        
+
+    },
+    "Data" : 
+    {
+        "CartTitle" : "Your Cart"
+    }
+}

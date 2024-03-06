@@ -1,0 +1,20 @@
+{
+    "Locators":
+    {
+        "UserName_Loc":"#user-name",
+        "Password_Loc":"#password",
+        "LoginBtn_Loc":"#login-button"
+    },
+    "Valid_Login_Data" :
+    {
+        "Username_Data" : "standard_user",
+        "Password_Data" : "secret_sauce",
+        "Assertion_Data" : "Products"
+    },
+    "InValid_Login_Data" :
+    {
+        "Username_Data" : "standard",
+        "Password_Data" : "secret_sauce",
+        "Assertion_Data" :"Username and password do not match"
+    }
+}

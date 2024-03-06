@@ -1,0 +1,14 @@
+{
+    "Locators" : 
+    {
+        "Prod1_Bagpack" : ":nth-child(1) > .pricebar > .btn_primary",
+        "Prod2_BikeLite" : ":nth-child(2) > .pricebar > .btn_primary",
+        "Prod3_Onesie" : ":nth-child(2) > .pricebar > .btn_primary",
+        "Sort_AtoZ" : ".product_sort_container",
+        "CartBtn" : ".fa-layers-counter"
+    },
+    "Data" : 
+    {
+        "Sort_Value" : "Name (Z to A)"
+    }
+}

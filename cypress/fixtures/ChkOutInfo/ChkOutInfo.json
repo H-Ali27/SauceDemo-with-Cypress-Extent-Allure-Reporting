@@ -1,0 +1,15 @@
+{
+    "Locators" : 
+    {
+        "FirstName_Loc" : "[data-test='firstName']",
+        "LastName_Loc" : "[data-test='lastName']",
+        "PostCode_Loc" : "[data-test='postalCode']",
+        "SubmitBtn" : ".btn_primary"
+    },
+    "Data" : 
+    {
+        "FirstName_Data" : "User",
+        "LastName_Data" : "Tester",
+        "PostCode_Data" : "123456"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Locators" : 
+    {
+        "Items_price_Loc" : ".cart_list .cart_item .inventory_item_price",
+        "TotalAmount_Loc" : ".summary_info .summary_subtotal_label",
+        "FinishBtn" : ".btn_action",
+        "FinishNote_Loc" : ".complete-header" 
+    },
+    "Data" : 
+    {
+        "FinishNote_Data" : "THANK YOU FOR YOUR ORDER"
+    }
+}
